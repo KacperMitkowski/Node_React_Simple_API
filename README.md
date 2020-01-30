@@ -1,7 +1,7 @@
 # Node React Postgres Simple App
 
 ## What is this about?
-This is simple app about events. Each event has its date and email, first name and last name of its organizer
+This is simple app about events. Each event has the date, email and first name and last name of its organizer. The user may create new event which is validated both in front-end and back-end. It's also possible to see all created events with details in a simple table.
 
 ## About project:
 This is the project made in my free time :)<br/>
