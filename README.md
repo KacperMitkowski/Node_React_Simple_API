@@ -1,7 +1,7 @@
 # Node React Postgres Simple App
 
 ## What is this about?
-This is simple app about events. Each event has the date, email and first name and last name of its organizer. The user may create new event which is validated both in front-end and back-end. It's also possible to see all created events with details in a simple table.
+This is simple app about events. Each event has the date, email and first name and last name of its organizer. The user may create new event which is validated both in front-end and back-end. It's also possible to see all created events with details in a simple table. I also prepared some tests for the API.
 
 ## About project:
 This is the project made in my free time :)<br/>
@@ -15,10 +15,12 @@ This is the project made in my free time :)<br/>
   * web design
 * practice back-end skills:
   * Node.js
-  * Postgres
+  * validations with moment.js
+  * testing with mocka.js, JEST and supertest 
+  * Postgres (with help pg.js)
   
 ## Used technology:
-* Node.js
+* Node.js (express.js, moment.js, mocka.js, JEST, supertest)  
 * React
 * Postgres
 * HTML, CSS
